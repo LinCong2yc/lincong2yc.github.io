@@ -29,4 +29,6 @@ tags:								#标签
 
 ## 衣服👔
 
+![_image](/img/qianshou.JPG)
+
 > 
